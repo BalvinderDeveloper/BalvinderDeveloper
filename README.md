@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
  
-[![Linkedin Badge](https://img.shields.io/badge/-Balvinder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)]( )
+[![Linkedin Badge](https://img.shields.io/badge/-Balvinder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/balvinder-singh-a1b69222a/)](https://www.linkedin.com/in/balvinder-singh-a1b69222a/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Balvinder-green)]( )
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Balvinder-yellow)](https://stackoverflow.com/users/18261242/balvinder-singh/)
 
